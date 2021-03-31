@@ -1,0 +1,22 @@
+{
+  "name": "custom-ability-scores",
+  "title": "Custom Ability Scores",
+  "description": "Adds custom damage types to the vtt.",
+  "author": "Charlie",
+  "version": "0.1",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.9",
+  "system": "dnd5e",
+  "url": "https://github.com/Teddy-Jenkins/Custom-Damage-Types",
+  "manifest": "https://raw.githubusercontent.com/Teddy-Jenkins/Custom-Ability-Scores/master/module.json",
+  "download": "https://github.com/Teddy-Jenkins/Custom-Ability-Scores/archive/master.zip",
+  "dependencies": [
+    {
+      "name": "dnd5e",
+      "type": "system"
+    }
+    ],
+  "esmodules": [
+    "scripts/custom.js"
+  ]
+}
