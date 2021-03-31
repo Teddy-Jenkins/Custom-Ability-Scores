@@ -8,8 +8,8 @@
   "compatibleCoreVersion": "0.7.9",
   "system": "dnd5e",
   "url": "https://github.com/Teddy-Jenkins/Custom-Damage-Types",
-  "manifest": "https://raw.githubusercontent.com/Teddy-Jenkins/Custom-Ability-Scores/master/module.json",
-  "download": "https://github.com/Teddy-Jenkins/Custom-Ability-Scores/archive/master.zip",
+  "manifest": "https://raw.githubusercontent.com/Teddy-Jenkins/Custom-Ability-Scores/main/module.json",
+  "download": "https://github.com/Teddy-Jenkins/Custom-Ability-Scores/archive/main.zip",
   "dependencies": [
     {
       "name": "dnd5e",
